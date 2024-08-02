@@ -1,0 +1,12 @@
+{
+  "source": "/Users/mattia/Desktop/Prova/Prova/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hello, world!"
+      }
+    ]
+  },
+  "version": 1
+}

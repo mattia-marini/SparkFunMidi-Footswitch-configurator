@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>48B79382-C922-4F40-95B8-6C4A39375E29</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>48B79382-C922-4F40-95B8-6C4A39375E29.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Prova project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Prova</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project Prova with scheme Prova</string>
+			<key>timeStartedRecording</key>
+			<real>743253638.88492596</real>
+			<key>timeStoppedRecording</key>
+			<real>743253643.78979695</real>
+			<key>title</key>
+			<string>Building project Prova with scheme Prova</string>
+			<key>uniqueIdentifier</key>
+			<string>48B79382-C922-4F40-95B8-6C4A39375E29</string>
+		</dict>
+		<key>7DAC26FE-3CAA-404A-8239-B3AED17D1739</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7DAC26FE-3CAA-404A-8239-B3AED17D1739.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Prova project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Prova</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project Prova with scheme Prova</string>
+			<key>timeStartedRecording</key>
+			<real>743280266.02949798</real>
+			<key>timeStoppedRecording</key>
+			<real>743280270.59100497</real>
+			<key>title</key>
+			<string>Building project Prova with scheme Prova</string>
+			<key>uniqueIdentifier</key>
+			<string>7DAC26FE-3CAA-404A-8239-B3AED17D1739</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
